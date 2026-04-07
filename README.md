@@ -1,6 +1,12 @@
-# My Context Template
+# Context-Sync-Digital-Brain-template
 
-这是我的 AI 记忆库模板。Fork 后填入你自己的内容即可使用。
+这是我的 AI 记忆库模板，Fork 后填入自己的内容即可使用。
+
+详细描述与教程请点击链接：
+
+https://github.com/CheckedX/Context-Sync-Digital-Brain-PrivateRepositoryBased-AI-Context-Manager
+
+
 
 ## 快速开始
 
@@ -10,7 +16,7 @@
 
 2. **修改个人信息**
    - 编辑 `profile/identity.md`
-   - 把示例内容换成你自己的
+   - 把示例内容换成自己的
 
 3. **获取 GitHub Token**
    - 按照 [教程](../docs/03-get-token.md) 获取 Token
@@ -42,5 +48,13 @@
 - ⚠️ 敏感内容不要放 GitHub
 
 ---
+这个项目受小红书博主“冰冰子_” (in Moonshot AI) 启发，由 CheckedX 和 格子 共同创建。
 
-*一格一格来，慢慢积累。*
+如果你觉得有用～欢迎：
+
+- Like 冰冰子_ 
+- Star 这个仓库
+- 分享给朋友
+- 提出改进建议
+
+
